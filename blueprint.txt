@@ -1,0 +1,169 @@
+pyautofix
+|   config.json
+|   file_analyzer.py
+|   launch_gui.py
+|   launch_pyautofix_safe.py
+|   main.py
+|   pyautofix.log
+|   README.md
+|   setup.py
+|   __init__.py
+|   
++---blender_plugins
+|       pyautofix_blender_enhanced.py
+|       pyautofix_blender_integration.py
+|       __init__.py
+|       
++---downloaded_packages
++---GENERATED_FILES
+|       manual_download_list.txt
+|       missing_packages.txt
+|       pypi_download_links.txt
+|       
++---learning_models
+|       learning_data.json
+|       
++---pyautofix
+|   |   Quick_launch_pyautofix.bat
+|   |   setup.py
+|   |   
+|   +---core
+|   |   |   analyzer.py
+|   |   |   auto_writer.py
+|   |   |   bridge_commander_gui.py
+|   |   |   cross_analyzer.py
+|   |   |   engine.py
+|   |   |   environment_detector.py
+|   |   |   rules.py
+|   |   |   standalone_engine.py
+|   |   |   super_engine.py
+|   |   |   universal_plugin_manager.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           engine.cpython-314.pyc
+|   |           __init__.cpython-314.pyc
+|   |           
+|   +---gui
+|   |   |   app.py
+|   |   |   enhanced_commander.py
+|   |   |   modern_gui.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           modern_gui.cpython-314.pyc
+|   |           __init__.cpython-314.pyc
+|   |           
+|   +---integrations
+|   |       advanced_ai.py
+|   |       ai_services.py
+|   |       blender_analyzer.py
+|   |       copilot_alternatives.py
+|   |       external_analyzer.py
+|   |       rage_analyzer.py
+|   |       __init__.py
+|   |       
+|   +---learning
+|   |       advanced_learning.py
+|   |       feedback_learning.py
+|   |       pattern_miner.py
+|   |       rules.py
+|   |       rule_suggester.py
+|   |       __init__.py
+|   |       
+|   +---rules_database
+|   |       default_rules.py
+|   |       __init__.py
+|   |       
+|   +---utils
+|   |       ast_helpers.py
+|   |       helpers.py
+|   |       __init__.py
+|   |       
+|   \---__pycache__
++---rage_plugins
+|   |   aggressive_discovery_plugin.py
+|   |   base_formats_plugin.py
+|   |   base_plugin.py
+|   |   batch_processor_plugin.py
+|   |   discovery_gui_plugin.py
+|   |   example_plugin.py
+|   |   file_analyzer_core.py
+|   |   format_discovery.py
+|   |   gui_integration_plugin.py
+|   |   plugin_analyzer.py
+|   |   plugin_manager.py
+|   |   rage_analyzer.py
+|   |   rage_evolutionary_detector.py
+|   |   rage_renderer_emulator.py
+|   |   rdr1_enhanced_plugin.py
+|   |   rdr1_formats.py
+|   |   rdr1_gui_plugin.py
+|   |   rdr1_pc_corrected_plugin.py
+|   |   rdr1_plugin.py
+|   |   source_engine_detector.py
+|   |   texture_analyzer.py
+|   |   unity_engine_detector.py
+|   |   universal_forage_viewer.py
+|   |   universal_import_export.py
+|   |   xml_bridge_connector.py
+|   |   __init__.py
+|   |   
+|   +---analyzer
+|   |   |   heuristi_analyzer.py
+|   |   |   metadata_extractor.py
+|   |   |   signature_analyzer.py
+|   |   |   structure_analyzer.py
+|   |   |   __init__.py
+|   |   |   
+|   |   \---__pycache__
+|   |           heuristi_analyzer.cpython-314.pyc
+|   |           metadata_extractor.cpython-314.pyc
+|   |           signature_analyzer.cpython-314.pyc
+|   |           structure_analyzer.cpython-314.pyc
+|   |           
+|   +---formats
+|   |       archive_analyzer.py
+|   |       model_analyzer.py
+|   |       texture_analyzer.py
+|   |       __init__.py
+|   |       
+|   +---TMP
+|   |       plugin_manager.py
+|   |       requirements.txt
+|   |       __init__.py
+|   |       
+|   +---utils
+|   |       compatibility.py
+|   |       file_utils.py
+|   |       hex_utils.py
+|   |       __init__.py
+|   |       
+|   \---__pycache__
+|           aggressive_discovery_plugin.cpython-314.pyc
+|           analyzer.cpython-314.pyc
+|           base_formats_plugin.cpython-314.pyc
+|           base_plugin.cpython-314.pyc
+|           batch_processor_plugin.cpython-314.pyc
+|           discovery_gui_plugin.cpython-314.pyc
+|           example_plugin.cpython-314.pyc
+|           file_analyzer_core.cpython-314.pyc
+|           format_discovery.cpython-314.pyc
+|           gui_integration_plugin.cpython-314.pyc
+|           plugin_analyzer.cpython-314.pyc
+|           plugin_manager.cpython-314.pyc
+|           rage_analyzer.cpython-314.pyc
+|           rdr1_enhanced_plugin.cpython-314.pyc
+|           rdr1_formats.cpython-314.pyc
+|           rdr1_gui_plugin.cpython-314.pyc
+|           rdr1_pc_corrected_plugin.cpython-314.pyc
+|           rdr1_plugin.cpython-314.pyc
+|           source_engine_detector.cpython-314.pyc
+|           texture_analyzer.cpython-314.pyc
+|           unity_engine_detector.cpython-314.pyc
+|           universal_import_export.cpython-314.pyc
+|           __init__.cpython-314.pyc
+|           
++---resources
+|   \---models
+\---__pycache__
